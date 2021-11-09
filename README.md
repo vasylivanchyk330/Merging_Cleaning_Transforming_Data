@@ -1,7 +1,7 @@
 Merging_Cleaning_Transforming_Data01
 
 The purpose of this project is to merge 2 datasets, one with movie data, one with crew-cast data.
-After merging, the data was cleaned and transformed.
+After merging, the data was cleaned and transformed. The result dataframe is contained in the forldere "result".
 
 The following steps are taken:
 - loading and inspecting datasets
